@@ -51,6 +51,9 @@ ul {
   padding: 0;
 }
 
+.hide {
+  display: none;
+}
 li {
   list-style: none;
   background-color: lightgray;
