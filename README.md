@@ -1,5 +1,5 @@
 ![](todo-list.gif)
-# todo-list
+# Todo List
 Proyecto: TODO list de Upgrade Hub
 
 Creamos un Event Listener en el botón de añadir tareas "addBtn".
