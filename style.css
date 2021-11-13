@@ -37,7 +37,7 @@ form {
 input {
   padding: 15px 10px;
   outline: none;
-  width: 400px;
+  width: 100%;
 }
 
 .li-container {
@@ -88,13 +88,16 @@ li p {
 }
 
 .btn-add {
-  padding: 5px 15px;
+  padding: 5px 10px;
+  width: 10%;
   border: none;
   color: white;
   font-family: fantasy;
   background-color: teal;
   font-size: 1.4rem;
   outline: none;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 .btn-add:hover {
